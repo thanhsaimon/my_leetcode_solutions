@@ -1,4 +1,6 @@
 // 27/5/2026
+// runtime:205ms
+// memory : 25.58mb
 class Solution {
 public:
         int last_lower(char c , const string& word){
